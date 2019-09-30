@@ -9,4 +9,3 @@ To be submitted to IoTJ
 上述三篇paper的DAG调度策略是参照OS调度中比较经典的HEFT算法提出的，我们修改HEFT算法使之适应研究设定的边缘计算卸载场景。<br>
 关于HEFT算法，可参照paper：https://ieeexplore.ieee.org/document/993206 <br>
 ## readme for paper/figures/tables/etc (Shu Chang).
-见
