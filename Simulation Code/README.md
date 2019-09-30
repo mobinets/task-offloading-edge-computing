@@ -1,4 +1,4 @@
-这份代码包含分别发表在SECON 2019、GLOBECOM 2019和IoT Journal上的三篇paper的仿真程序 <br>
+这份代码包含分别发表在SECON 2019、GLOBECOM 2019和IoT Journal上的三篇paper的仿真程序，论文原文见/paper文件夹。 <br>
 1、Chang Shu, Zhiwei Zhao*, Yunpeng Han and Geyong Min, Dependency-Aware and Latency-Optimal Computation Offloading for Multi-User Edge Computing Networks (extension to IoTJ), `IEEE SECON 2019`, Boston, USA, June 10-13, 2019. <br>
 2、Yunpeng Han, Zhiwei Zhao*, Jiwei Mo, Chang Shu and Geyong Min, Efficient Task Offloading with Dependency Guarantees in Ultra-Dense Edge Networks, `IEEE GlobeCom 2019`, HI, USA, Dec 9-13, 2019. <br>
 3、Chang Shu, Zhiwei Zhao*, Yunpeng Han, Geyong Min and Hancong Duan, Multi-User Offloading for Edge Computing Networks: A Dependency-Aware and Latency-Optimal Approach (extended), `IEEE Internet-of-Things Journal`, Accepted to appear, 2019. <br>
