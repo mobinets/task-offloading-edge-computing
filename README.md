@@ -5,7 +5,8 @@ This repo contains the simulation code used in the following publications.
 3. Yunpeng Han, Zhiwei Zhao*, Jiwei Mo, Chang Shu and Geyong Min, Efficient Task Offloading with Dependency Guarantees in Ultra-Dense Edge Networks, `IEEE GlobeCom 2019`, HI, USA, Dec 9-13, 2019.
 
 Please copy the following bib info for citations. 
-`@article{shu2020IoTJ, 
+<pre><code>
+@article{shu2020IoTJ, 
 author={C. {Shu} and Z. {Zhao} and Y. {Han} and G. {Min} and H. {Duan}}, 
 journal={IEEE Internet of Things Journal}, 
 title={Multi-User Offloading for Edge Computing Networks: A Dependency-Aware and Latency-Optimal Approach}, 
@@ -13,7 +14,8 @@ year={2020},
 volume={7}, 
 number={3}, 
 pages={1678-1689},
-} `
+} 
+</code></pre>
 
 
 ## readme for simulation code (Yunpeng)
