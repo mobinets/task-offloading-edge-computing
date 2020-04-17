@@ -18,12 +18,11 @@ pages={1678-1689},
 </code></pre>
 
 
-## readme for simulation code (Yunpeng)
+## General description
 这份代码包含分别发表在SECON 2019、GLOBECOM 2019和IoT Journal上的三篇paper的仿真程序，论文原文见/paper文件夹。 <br>
 其中DAG调度策略是参照OS调度中比较经典的HEFT算法提出的，我们修改HEFT算法使之适应研究设定的边缘计算卸载场景。<br>
 关于HEFT算法，可参照[paper](https://ieeexplore.ieee.org/document/993206)
 
-### usage (yunpeng)
-
+## Usage (yunpeng)
 
 ## readme for paper/figures/tables/etc (Shu Chang).
