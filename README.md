@@ -1,6 +1,6 @@
 # bigdata-edge
 This repo contains the simulation code used in the following publications.
-1. Chang Shu, Zhiwei Zhao*, Yunpeng Han, Geyong Min and Hancong Duan, Multi-User Offloading for Edge Computing Networks: A Dependency-Aware and Latency-Optimal Approach (extended), `IEEE Internet-of-Things Journal`, 2019.
+1. Chang Shu, Zhiwei Zhao*, Yunpeng Han, Geyong Min and Hancong Duan, Multi-User Offloading for Edge Computing Networks: A Dependency-Aware and Latency-Optimal Approach (extended), `IEEE Internet-of-Things Journal`, 2020.
 2. Chang Shu, Zhiwei Zhao*, Yunpeng Han and Geyong Min, Dependency-Aware and Latency-Optimal Computation Offloading for Multi-User Edge Computing Networks (extension to IoTJ), `IEEE SECON 2019`, Boston, USA, June 10-13, 2019.
 3. Yunpeng Han, Zhiwei Zhao*, Jiwei Mo, Chang Shu and Geyong Min, Efficient Task Offloading with Dependency Guarantees in Ultra-Dense Edge Networks, `IEEE GlobeCom 2019`, HI, USA, Dec 9-13, 2019.
 
